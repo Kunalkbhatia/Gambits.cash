@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const lilitaOne = Lilita_One({
+const lilitaOne = Lilita_One({
   variable: "--font-lilita-one",
   subsets: ["latin"],
   weight: "400",
